@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 class Bank_Account:
     def __init__(self):
         self.name = input("Enter Your Name")
@@ -107,29 +101,3 @@ class QNB_Bank(Bank_Account):
             print(self.__wallet)
         else:
             print("wrong Password")
-          
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
